@@ -1,3 +1,4 @@
+#this script searches IPs as well as related parameters such as country, port, CVE, product type etc of exposed IOT devices from Shodna using Shodan API
 import shodan
 import pandas as pd
 from time import sleep
