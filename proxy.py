@@ -1,3 +1,5 @@
+#This script first load proxy IP (collected from darknet/other sources) to the IoT IP collected from Shodan as seperate csv files.
+#then it extract matched IPs between these two files as create a new csv file with these matched IPs
 import csv
 import pandas as pd
 from time import sleep
