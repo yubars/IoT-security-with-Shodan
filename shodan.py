@@ -5,7 +5,7 @@ from time import sleep
 import warnings
 warnings.filterwarnings("ignore")
 
-SHODAN_API_KEY = "L0mwdJOfDqGXbM2oWoBo1UTNOII1iSba"
+SHODAN_API_KEY = "your shodan api key"
 api = shodan . Shodan ( SHODAN_API_KEY )
 
 query = "cisco router"
