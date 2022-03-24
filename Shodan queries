@@ -6,3 +6,7 @@ test test port:”80″ – generic test credentials over HTTP.
 “authentication disabled” “RFB 003.008” – no authentication necessary.
 “root@” port:23 -login -password -name -Session – accounts already logged in with root privilege over Telnet, port 23.
 port:23 console gateway – remote access via Telnet, no password required.
+html:”def_wirelesspassword” – default login pages for routers.
+“polycom command shell” – possible authentication bypass to Polycom devices.
+“authentication disabled” port:5900,5901 – VNC services without authentication.
+“server: Bomgar” “200 OK” – Bomgar remote support service.
