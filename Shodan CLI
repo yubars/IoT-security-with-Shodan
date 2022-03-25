@@ -1,6 +1,8 @@
 Basic command for Shodna CLI
 #Install Shodan First
-
+https://help.shodan.io/command-line-interface/0-installation
+$ shodan
 #Check Shodan Installed or not
-
+$ shodan
 # initialize yout Shodan API key
+$ shodan init YOUR_API_KEY
