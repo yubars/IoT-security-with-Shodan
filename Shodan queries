@@ -2,6 +2,9 @@ Linksys WVC80N Wireless Internet Camera (Shodan query: WVC80N)
 ExacqVision (Shodan query: “server: wfe”).
 AXIS webcams (Shodan query: “port:80 has_screenshot:true”).
 AVTECH IP webcams (Shodan query: linux upnp avtech).
+JUNG KNX (Shodan query: Jung KNX).
+Jeedom (Shodan query: Jeedom)
+Somfy alarm system (Shodan query: title:"Centrale" Pragma:"no-cache, no-store”).
 Source: 
 Fernández-Caramés, Tiago M., and Paula Fraga-Lamas. "Teaching and learning iot cybersecurity and vulnerability assessment with shodan through practical use cases." Sensors 20.11 (2020): 3048.
 
