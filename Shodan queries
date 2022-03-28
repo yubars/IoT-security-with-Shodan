@@ -5,6 +5,14 @@ AVTECH IP webcams (Shodan query: linux upnp avtech).
 JUNG KNX (Shodan query: Jung KNX).
 Jeedom (Shodan query: Jeedom)
 Somfy alarm system (Shodan query: title:"Centrale" Pragma:"no-cache, no-store”).
+Insteon home automation system (Shodan query: title:"powered by insteon”).
+Creston control hub (Shodan query: Crestron PYNG-HUB).
+iKettle (Shodan query: ikettle).
+Open Virtual Network Computing (VNC) systems (Shodan query: has_screenshot:true product:VNC
+"authentication disabled").
+MQTT brokers (Shodan query: "MQTT Connection Code: 0" set –alarm).
+Yamaha AV receiver (Shodan query: "HTTP/1.1 406 Not Acceptable" "Server: AV_Receiver”).
+Openwrt from country US: “openwrt country:US”.
 Source: 
 Fernández-Caramés, Tiago M., and Paula Fraga-Lamas. "Teaching and learning iot cybersecurity and vulnerability assessment with shodan through practical use cases." Sensors 20.11 (2020): 3048.
 
